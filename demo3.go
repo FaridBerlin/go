@@ -1,21 +1,21 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
+// func main() {
  
-	// for loops
+// 	// for loops
 
-	// for idx := 0; idx < 10; idx++ {
-	// 	fmt.Println(idx)
-	// }
+// 	// for idx := 0; idx < 10; idx++ {
+// 	// 	fmt.Println(idx)
+// 	// }
 
-	// while loop
-	a := 1
+// 	// while loop
+// 	a := 1
 
-	for a < 10 {
-		fmt.Println(a)
-		a++
-	}
+// 	for a < 10 {
+// 		fmt.Println(a)
+// 		a++
+// 	}
 
-}	
+// }	

@@ -1,24 +1,24 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
 	
 
-func main() {
+// func main() {
  
-	// swtch case
+// 	// swtch case
 
-	a := 1
+// 	a := 1
 
-	switch  {
-	case a < 1:
-		fmt.Println("one")
-	case a > 2:
-		fmt.Println("two")
-	default:
-		fmt.Println("default")
-	}
+// 	switch  {
+// 	case a < 1:
+// 		fmt.Println("one")
+// 	case a > 2:
+// 		fmt.Println("two")
+// 	default:
+// 		fmt.Println("default")
+// 	}
 
 
 	
-}
+// }
