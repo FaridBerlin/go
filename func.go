@@ -26,10 +26,10 @@ import "fmt"
 
 
 
-func sum(nums ...int) (s int, s2 int) { 
-return
-}
-func main() {
-s, s2 := sum([]int{1, 2, 3, 4, 5}...)
-fmt.Println(s, s2)
-}
+// func sum(nums ...int) (s int, s2 int) { 
+// return
+// }
+// func main() {
+// s, s2 := sum([]int{1, 2, 3, 4, 5}...)
+// fmt.Println(s, s2)
+// }
